@@ -1,7 +1,7 @@
 # pandas_challenge
 
 Pandas_Challenge
-You are the new Chief Data Scientist for your city`s school district. In this capacity, you`ll be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
+You are the new Chief Data Scientist for your city's school district. In this capacity, you`ll be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
 You will be determining he following in the given datasets. District summary, School summary, Highest-performing schools(by % overall passing), Lowest-performing schools (by % overall passing), Math scores by grade, Reading scores by grade, Scores by school spending, Scores by school size and Scores by school type.
    
 Table of contents:
